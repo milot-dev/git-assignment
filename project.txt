@@ -1,1 +1,2 @@
 This is a demonstration of first commit creating project!
+Updated the project requirements!
