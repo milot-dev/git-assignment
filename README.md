@@ -69,8 +69,6 @@ git reset --hard HEAD~1
 ```
 git reflog
 git checkout 7f64a78
-git branch recovered-untested-feature
-git switch recovered-untested-feature
 ```
 #### 5. Branching & Tagging
 
