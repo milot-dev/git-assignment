@@ -1,2 +1,4 @@
 This is a demonstration of first commit creating project!
 Updated the project requirements!
+Implemented A feature to fulfill clients needs!
+Implemented B feature to handle distributed data systems!
