@@ -4,3 +4,5 @@ Implemented A feature to fulfill clients needs!
 Implemented B feature to handle distributed data systems!
 Bug fixes on both feature B, A that were causing data loss!
 One more bug fix on feature B!
+
+Dangerous change on the codebase that risks leaking client information!!
